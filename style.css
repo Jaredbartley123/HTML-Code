@@ -1,0 +1,96 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700italic);
+
+h1,
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  color: orange;
+}
+
+
+
+html {
+  background-image: url(https://i.ytimg.com/vi/KdP8DIB80hY/maxresdefault.jpg) ;
+  text-align: center;
+  background-size: 200px;
+
+}
+
+p {
+  font-size: 24px;
+  color: orange;
+}
+
+ul {
+  text-align: center;
+  font-size: 20px;
+}
+
+footer {
+  font-size: 18px;
+  color: orange;
+}
+
+
+nav a {
+  border: 2px solid orange;
+  padding: 10px 5px 10px 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 25px;
+  border-radius: 5px;
+  background-color: orange;
+  color: black;
+  box-shadow: 0 1px 1px orange, inset 0 1px 0 darkOrange;
+}
+
+a:hover{
+  color: darkOrange;
+  text-decoration: none;
+}
+
+
+iframe {
+  border: 2px orange solid;
+}
+
+
+
+
+a {
+  text-decoration: none;
+  color: orange;
+}
+
+
+section {
+  background-color: black;
+  border: 2px orange solid;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: auto;
+  padding-left: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+td {
+  border: orange solid 2px;
+}
+
+
+table {
+  table-layout: auto;
+  color: orange;
+  border: orange solid 2px;
+  border-collapse: collapse;
+  font-size: 24px;
+  text-align: center;
+  padding: 10px;
+  margin:auto;
+}
